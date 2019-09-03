@@ -1,4 +1,4 @@
-##### This code is horrible you can find a better version of this here: renells repo. 
+##### This code is horrible use this as what not to do. You can find a better version of this here: renells repo. 
 
 
 # CMPT_384_Project
